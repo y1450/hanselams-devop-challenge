@@ -35,7 +35,11 @@ Our goal here is:
 * see how you can summarize and present results
 
 ## Solution:
-To set up the connection for you need Google Account
+To set up the API connection for your app you need
+- Google Account
+- Enable Gmail API 
+- Create credentials for the app.
+
 All the steps for creating account is documentated in issue #1.
 Meanwhile the design is discussed in issue #2.
 
@@ -46,4 +50,6 @@ conda create -n gmail_api python=3.10
 pip install -r requirements.txt
 ```
 All the code  is contained in file `python main.py`
+
+
 
