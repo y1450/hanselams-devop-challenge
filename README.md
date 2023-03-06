@@ -40,8 +40,8 @@ To set up the API connection for your app you need
 - Enable Gmail API 
 - Create credentials for the app.
 
-All the steps for creating account is documentated in issue #1.
-Meanwhile the design is discussed in issue #2.
+All the steps for creating account is documentated in [Issue #1](https://github.com/y1450/hanselams-devop-challenge/issues/1).
+Meanwhile the design is discussed in [Issue #2](https://github.com/y1450/hanselams-devop-challenge/issues/2).
 
 To run the code,
 you need to create a conda environment
